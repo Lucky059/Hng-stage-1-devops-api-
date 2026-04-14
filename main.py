@@ -16,6 +16,6 @@ def me():
     return JSONResponse(content={
         "name": "ukweku lucky",
         "email": "ukwekulucky@gmail.com",
-        "github": "https://github.com/luckyukweku"
+        "github": "https://github.com/Lucky059"
     }, status_code=200)
 
