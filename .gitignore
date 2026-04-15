@@ -2,3 +2,31 @@ venv/
 __pycache__/
 *.pyc
 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+.env
+.venv/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Nginx/systemd configs (keep them private if you don’t want them public)
+*.service
+*.conf
+
+
